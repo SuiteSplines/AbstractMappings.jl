@@ -9,5 +9,5 @@ CurrentModule = AbstractMappings
 
 ```@autodocs
 Modules = [AbstractMappings]
-Order   = [:function, :type]
+Order   = [:function, :type, :macro]
 ```
