@@ -16,7 +16,7 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 [compat]
 CartesianProducts = "^0.15.0"
 ForwardDiff = "^1.0.1"
-IgaBase = "^0.8.0"
+IgaBase = "^0.8.0, 0.9"
 LRUCache = "^1.6.2"
 RecipesBase = "v1.3.4"
 SortedSequences = "^0.6.2"
